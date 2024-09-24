@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+Flask
+requests
+opencv-python
+numpy
+mysql-connector-python
+tensorflow
+=======
+Flask
+requests
+opencv-python
+numpy
+mysql-connector-python
+tensorflow
+>>>>>>> fe49d28 (v2)
+pyserial

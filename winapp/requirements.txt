@@ -1,0 +1,7 @@
+Flask
+requests
+opencv-python
+numpy
+mysql-connector-python
+tensorflow
+pyserial
